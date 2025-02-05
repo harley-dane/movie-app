@@ -32,9 +32,9 @@ const data = {
         },
         {
             id: 6,
-            dataName : 'How to get away with murder',
+            dataName : 'Win Murder case',
             src : ("./images/get-away.jpg"),
-            title : 'How to get away with murder'
+            title : 'Win Murder case'
         },
         {
             id: 8,
@@ -48,6 +48,55 @@ const data = {
             src : ("./images/dynasty.jpg"),
             title : 'Dynasty'
         },
+        {
+            id: 9,
+            dataName : 'Accountant',
+            src : ("./images/account.jpg"),
+            title : 'Accountant'
+        },
+        {
+            id: 9,
+            dataName : 'Dynasty',
+            src : ("./images/woman-king.webp"),
+            title : 'Woman King'
+        },
+        {
+            id: 9,
+            dataName : 'Blank Panther',
+            src : ("./images/waknda.webp"),
+            title : 'Black Panther'
+        },
+        {
+            id: 9,
+            dataName : 'Dynasty',
+            src : ("./images/nypd.jpg"),
+            title : 'N.Y.P.D'
+        },
+        {
+            id: 9,
+            dataName : 'Joker',
+            src : ("./images/joker.jpg"),
+            title : 'Joker'
+        },
+        {
+            id: 9,
+            dataName : 'Bad Boys',
+            src : ("./images/Bad_Boys.jpg"),
+            title : 'Bad Boys'
+        },
+        {
+            id: 9,
+            dataName : 'Sc-face',
+            src : ("./images/scar-face.jpg"),
+            title : 'Sc-face'
+        },
+        {
+            id: 9,
+            dataName : 'Surface',
+            src : ("./images/surface.jpg"),
+            title : 'Surface'
+        },
+
     ],
 };
 
